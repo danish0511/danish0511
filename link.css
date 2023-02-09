@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://media.tenor.com/GDFWh2WobmYAAAAC/anime-sharingan.gif);
+    
+}
+
+p{
+    font-size: 50px;
+    background-color: rgb(157, 180, 227);
+    width: 750px;
+    text-align: center;
+    border-radius: 100px;
+    cursor: pointer;
+    border-style:groove;
+    border-width: 3px;
+    
+    box-shadow: 0 4px 8px 0 #e5fc1a, 0 6PX 20PX 0 rgba(0, 0, 0, 0.19);
+}
+
+
+h3{
+    color: white;
+    text-align: center;
+}

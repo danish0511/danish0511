@@ -1,0 +1,85 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.c0{
+    background-image: url(https://media.istockphoto.com/photos/background-black-and-green-dark-are-light-with-the-gradient-is-the-picture-id1349280027?b=1&k=20&m=1349280027&s=170667a&w=0&h=kgtlB6Nz1qcjRy137PlP-QpP0boy9eMPQQOhyBCff38=);
+    background-size: 1535px;
+}
+
+
+h1{
+    background-color: red;
+    height: 60px;
+    width: 450px;
+    border-width: 3.5px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 100px;
+    text-align: center;
+    color: rgb(254, 248, 81);
+}
+
+.c1{
+    font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 240px;
+}
+
+.c2{font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 240px;
+}
+
+.c3{font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 260px;
+}
+
+.c4{font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 315px;
+}
+
+.c5{font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 260px;
+}
+
+.c6{font-family:fantasy, cursive;
+    font-size: 20px;
+    color: rgb(53, 166, 227);
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 120px;
+}
+
+.c7{color: white;
+}
+
+.c8{font-family: fantasy, cursive;
+    font-size: 25px;
+    color: rgb(145, 32, 238);
+    height: 350px;
+    background-color: rgb(171, 236, 197);
+
+}
+
+.c10{background-color: rgb(171, 236, 197);
+}

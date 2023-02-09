@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(https://wallpaperset.com/w/full/f/9/7/545594.jpg);
+}
+
+.container{
+    width: 100%;
+    min-height: 90vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 100px;
+    cursor: pointer;
+    margin: 30px 0;
+    background-color:rgb(94, 32, 152);
+    border-radius: 10px;
+}
+
+.menu_icon{
+    width: 25px;
+    cursor: pointer;
+    width: 50px;
+}
+
+nav{
+    flex: 1;
+    text-align: right;
+    background-color: rgb(165, 185, 213);
+    height: 30px;
+    padding-top: 7px;
+    border-radius: 10px;
+    margin-left: 615px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav ul li a{
+    text-decoration:none;
+    color: rgb(38, 0, 255);
+    font-size: 15px;
+}
+
+nav ul li a:hover{
+    color: red;
+}
+
+.row{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+.col_1{
+    flex-basis: 40%;
+    position:relative;
+    margin-left: 50px;
+}
+
+.col_1 h2{
+    font-size: 54px;
+}
+
+.col_1 h3{
+    font-size: 30px;
+    color: #707070;
+    font-weight: 100;
+    margin: 20px 0 10px;
+}
+
+.col_1 p{
+    font-size: 16px;
+    color: #b7b7b7;
+    font-weight: 100;
+}
+
+.col_1 h4{
+    margin: 30px 0;
+    padding-right: 350px;
+    font-size: 20px;
+}
+
+button{
+    width: 180px;
+    border: 1;
+    padding: 12px 10px;
+    outline: none;
+    font-size: 17px;
+    padding-bottom: 12px;
+    background: linear-gradient(to right, #06BEB6,#48B1BF);
+    border-radius: 20px;
+    cursor: pointer;
+    transition: width 0.5s;
+}
+
+button img{
+    padding-left: 20px;
+    width: 60px;
+    height: 25px;
+   
+}
+
+button:hover img{
+    display: block;
+    width: 60px;
+    padding-left: 50px;
+    height: 30px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col_1::after{
+    content: '';
+    width: 10px;
+    height: 57%;
+    background: linear-gradient( #ff469f, #ff6062);
+    position: absolute;
+    left: -40px;
+    top: 8px;
+}
+
+.col_2{
+    position: relative;
+    flex-basis: 60%;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    cursor: pointer;
+}
+.col_2 .controller{
+    width: 50%;
+    margin-left: 120px;
+}
+
+.color_box{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: linear-gradient(#ff54a2, #ff575a);
+    border-radius: 20px 0 0 20px;
+    height: 100%;
+    width: 856px;
+    z-index: -1;
+    left: 10px;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+body{
+    background: url(https://media.istockphoto.com/photos/light-blue-watercolor-background-picture-id1301156172?b=1&k=20&m=1301156172&s=170667a&w=0&h=Ag7FeKGlohIwsKuJqTU180CL01lSGQieqEWv6mKK4n4=);
+}
+
+.c1{
+    text-align: center;
+    color: red;
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+.c2{
+    text-align: center;
+    color: red;
+    font-size: 70px;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
