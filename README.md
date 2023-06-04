@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on jupyter notebook
+- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning CPP
 - 👯 I’m looking to collaborate on App dev
 - 🤔 I’m looking for help with App Dev
